@@ -23,14 +23,15 @@ This is a real-time chat application built with React Native. The app supports r
 ## File Structure
 
 Here is an overview of the project's folder structure:
-
-/src
+<pre>
+/src 
   /components    # Reusable UI components
   /Pages         # Screens for different app views
   /navigation    # Navigation setup using React Navigation
   /config        # Logic used in this Project
   /context       # context for states
   /images        # all images used in project
+</pre>  
 
 ## In This Project API used are from my git repo Mern-Chat-Webapp-with-socketio/backend/
 ### Backend Setup
